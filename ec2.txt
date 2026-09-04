@@ -8,3 +8,5 @@ They are
       4. Security Group And Network
       5. Key Pair
       6. Volume
+We use auto scaling groups for scaling purpose
+Auto scaling is also known as Horizontal Scaling
