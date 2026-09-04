@@ -1,3 +1,10 @@
 EC2 Stands for Elastic Compute Cloud
 EC2 is the service provided by the aws that is used to launch the ec2 instance
-
+We have 6 steps to launch the ec2 instance 
+They are 
+      1. Tag Name
+      2. OS (AMI)
+      3. Instance Type
+      4. Security Group And Network
+      5. Key Pair
+      6. Volume
